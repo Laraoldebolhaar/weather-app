@@ -90,3 +90,8 @@ h2:hover {
   top: -10px;
   right: 40px;
 }
+
+#github-link {
+  display: block;
+  margin: auto;
+}
