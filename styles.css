@@ -92,8 +92,11 @@ h2:hover {
 }
 
 #github-link {
+  color: rgb(56, 56, 56);
   display: block;
+  font-family: "Poppins", sans-serif;
   position: relative;
   top: -75px;
-  left: 610px;
+  left: 615px;
+  text-decoration: none;
 }
