@@ -93,5 +93,7 @@ h2:hover {
 
 #github-link {
   display: block;
-  text-align: center;
+  position: relative;
+  top: -75px;
+  left: 605px;
 }
